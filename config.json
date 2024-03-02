@@ -1,0 +1,6 @@
+{
+    "webhook_url": "https://discord.com/api/webhooks/",
+    "min_id": 100000,
+    "max_id": 1000000,
+    "offline_years": 6
+}
